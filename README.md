@@ -7,3 +7,5 @@
 
 <img src="Pictures/githubpics/boatdesign.png">
 
+![sample interaction](./pictures/githubpics/boatdesign.png)
+![sample interaction](./Pictures/githubpics/boatdesign)
