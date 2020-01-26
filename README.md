@@ -5,4 +5,5 @@
 - Print the background, sail, mast and deck depending on the user's input
 -  Enter -1 to exit loop. 
 
-![Sample interaction](/Pictures/githubpics/boatdesign.png)
+<img src="Pictures/githubpics/boatdesign.png">
+
