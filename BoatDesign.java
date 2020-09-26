@@ -9,13 +9,15 @@ Scanner kbd = new Scanner(System.in);
 do {
 	   System.out.println("Please enter the height of the mast");
        m = kbd.nextInt();
-//formulas	
+//formulas
+
+//comment	
 int width = 2 * m + 1; //width of the boat
 int height = 4/3 * m + 1; // height of the boat
 int hull = m/3; // hull of the boat
 
-//test
-//comment insert test
+
+
 
 for (int i = 1; i<=m ; i++) {  //Print background left side	
     for ( int j = 1; j<=((width-1)/2 - (i-1)); j++) {
